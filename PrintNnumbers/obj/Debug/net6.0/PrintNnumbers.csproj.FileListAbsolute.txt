@@ -1,0 +1,15 @@
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\PrintNnumbers\obj\Debug\net6.0\PrintNnumbers.csproj.AssemblyReference.cache
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\PrintNnumbers\obj\Debug\net6.0\PrintNnumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\PrintNnumbers\obj\Debug\net6.0\PrintNnumbers.AssemblyInfoInputs.cache
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\PrintNnumbers\obj\Debug\net6.0\PrintNnumbers.AssemblyInfo.cs
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\PrintNnumbers\obj\Debug\net6.0\PrintNnumbers.csproj.CoreCompileInputs.cache
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\PrintNnumbers\bin\Debug\net6.0\PrintNnumbers.exe
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\PrintNnumbers\bin\Debug\net6.0\PrintNnumbers.deps.json
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\PrintNnumbers\bin\Debug\net6.0\PrintNnumbers.runtimeconfig.json
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\PrintNnumbers\bin\Debug\net6.0\PrintNnumbers.dll
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\PrintNnumbers\bin\Debug\net6.0\PrintNnumbers.pdb
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\PrintNnumbers\obj\Debug\net6.0\PrintNnumbers.dll
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\PrintNnumbers\obj\Debug\net6.0\refint\PrintNnumbers.dll
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\PrintNnumbers\obj\Debug\net6.0\PrintNnumbers.pdb
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\PrintNnumbers\obj\Debug\net6.0\PrintNnumbers.genruntimeconfig.cache
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\PrintNnumbers\obj\Debug\net6.0\ref\PrintNnumbers.dll

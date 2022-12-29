@@ -1,28 +1,8 @@
 ﻿using System.Collections.Generic;
 using Banking;
 using Maths;
-
-//Variables are declared using types
-//CTS :Common Type System
-
-//Value types:
-            //primitive data types
-            //int, float, double, bool, struct
-            //enum
-            //char
-//Reference types
-            //class
-            //interface
-            //delegate
-            //event
-
-//Collection Framework
-            // namespaces
-            // System.Collections.Generic
-//bool status=false;
-//Boolean flag=true;
-//annonymous type
-
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
 var p=new {
                 FirstName="Satish",
                 LastName="Dhavan"

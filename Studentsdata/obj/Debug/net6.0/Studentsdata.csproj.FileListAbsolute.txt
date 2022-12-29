@@ -1,0 +1,15 @@
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Studentsdata\obj\Debug\net6.0\Studentsdata.csproj.AssemblyReference.cache
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Studentsdata\obj\Debug\net6.0\Studentsdata.GeneratedMSBuildEditorConfig.editorconfig
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Studentsdata\obj\Debug\net6.0\Studentsdata.AssemblyInfoInputs.cache
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Studentsdata\obj\Debug\net6.0\Studentsdata.AssemblyInfo.cs
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Studentsdata\obj\Debug\net6.0\Studentsdata.csproj.CoreCompileInputs.cache
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Studentsdata\bin\Debug\net6.0\Studentsdata.exe
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Studentsdata\bin\Debug\net6.0\Studentsdata.deps.json
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Studentsdata\bin\Debug\net6.0\Studentsdata.runtimeconfig.json
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Studentsdata\bin\Debug\net6.0\Studentsdata.dll
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Studentsdata\bin\Debug\net6.0\Studentsdata.pdb
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Studentsdata\obj\Debug\net6.0\Studentsdata.dll
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Studentsdata\obj\Debug\net6.0\refint\Studentsdata.dll
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Studentsdata\obj\Debug\net6.0\Studentsdata.pdb
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Studentsdata\obj\Debug\net6.0\Studentsdata.genruntimeconfig.cache
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Studentsdata\obj\Debug\net6.0\ref\Studentsdata.dll

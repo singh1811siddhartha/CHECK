@@ -1,0 +1,15 @@
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Strings\obj\Debug\net6.0\Strings.csproj.AssemblyReference.cache
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Strings\obj\Debug\net6.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Strings\obj\Debug\net6.0\Strings.AssemblyInfoInputs.cache
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Strings\obj\Debug\net6.0\Strings.AssemblyInfo.cs
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Strings\obj\Debug\net6.0\Strings.csproj.CoreCompileInputs.cache
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Strings\bin\Debug\net6.0\Strings.exe
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Strings\bin\Debug\net6.0\Strings.deps.json
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Strings\bin\Debug\net6.0\Strings.runtimeconfig.json
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Strings\bin\Debug\net6.0\Strings.dll
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Strings\bin\Debug\net6.0\Strings.pdb
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Strings\obj\Debug\net6.0\Strings.dll
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Strings\obj\Debug\net6.0\refint\Strings.dll
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Strings\obj\Debug\net6.0\Strings.pdb
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Strings\obj\Debug\net6.0\Strings.genruntimeconfig.cache
+D:\Siddhartha_229214\sdm-git\dotnet-git\dotnet_practice\Strings\obj\Debug\net6.0\ref\Strings.dll
