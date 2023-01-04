@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Q11</title>
+</head>
+<style>
+    body{
+        color: white;
+    }
+    a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    }
+
+    a:hover {
+    background-color: #ddd;
+    color: black;
+    }
+
+    .previous {
+    background-color: rgb(25, 190, 25);
+    color: black;
+    }
+    .next {
+    background-color: rgb(17, 187, 17);
+    color: white;
+    }
+
+    .round {
+    border-radius: 50%;
+    }
+    
+    table,tr{
+        
+        border-spacing: 20px;
+    }
+    fieldset {
+        width: 50%;
+        border:2px solid white;
+    }
+
+</style>
+<body style="background-color: rgb(14, 118, 187);">
+    <fieldset>
+        <legend style="font-size:larger ;">Registration Details</legend>
+        <form>
+        <table align="center">
+            <tr>
+                <td align="right"><label>University :</label></td>
+                <td><input type="text" name="university" id="uni" size="35"></td>
+            </tr>
+                
+            <tr>
+                <td align="right"><label> Institute :</label></td>
+                <td><input type="text" name="Institute" id="ins" size="35"></td>
+            </tr>
+            
+            
+            <tr>
+                <td align="right"><label>Branch :</label></td>
+                <td><select name="branch" id="br" >
+                    <option value="1 ">-----select one---</option>
+                    <option value="mech"> Mechanical</option>
+                    <option value="civil"> Civil</option>
+                    <option value="cse"> Computer</option>
+                    <option value="ele"> Electrical</option>
+                    <option value="it"> IT</option>
+                </select></td>
+            </tr>
+
+            <tr>
+                <td align="right"><label>Degree :</label></td>
+                <td><select name="degree" id="deg">
+                    <option value="1 ">-----select one---</option>
+                    <option value="mech"> Mechanical</option>
+                    <option value="civil"> Civil</option>
+                    <option value="cse"> Computer</option>
+                    <option value="ele"> Electrical</option>
+                    <option value="it"> IT</option>
+                    <input type="radio" name="degree" id="deg1"><label>Pursuing</label>
+                    <input type="radio" name="degree" id="deg2"><label>Completed</label>
+                </select></td>
+            </tr>
+            
+            <tr>
+                <td align="right"> <label>Average CPI :</label></td>
+                <td><input type="number" name="cpi" id="cpi" min="0" max="10">
+                    
+                </select><label>Upto</label>
+                    <input type="number" name="cpi" id="sem" min="1" max="8"></select><label>The semester</label></td>
+            </tr>
+
+            <tr>
+                <td align="right">  <label>Experience :</label></td>
+                <td> <select name="cpi" id="exp">
+                    <option>1</option>
+                </select><label>Years</label>
+            </td>
+            </tr>
+            
+            <tr>
+                <td align="right">  <label> Your website or Blog :</label></td>
+                <td>  <input type="text" name="web" id="web" required placeholder="http://" autofocus size="35"><br></td>
+            </tr>
+          
+        </table>
+    </form>
+    
+        </fieldset>
+        <div>
+            <table align="center" style="width:60%;">
+                <tr>
+                    <td >
+                        <a href="#" class="previous round">&#8249;</a>
+                        <label>Step 2</label>
+                        <a href="#" class="next round">&#8250;</a>
+                    </td>
+                    
+                </tr>
+                
+            </table>
+            
+        </div>
+        
+</body>
+</html>
